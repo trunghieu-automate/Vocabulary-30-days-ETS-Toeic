@@ -81,3 +81,135 @@
 
 - `Give someone a status update`
 - `Memebership status`
+
+# stay
+`[stei]`
+- `v` :  `o lai`
+- `n` : `su cu tru`
+- `stay up` : `thuc khuya`
+- `stay at a hotel`
+- `stay tuned for`
+> we enjoyed our stay so much that we are planing on a return trip to Da Nang city
+
+# verify
+`['verifai]`
+- `v` : xac nhan
+- `n` : `verification`
+- `adj` : `verificable`
+> It is always advisable too verify departure time
+
+# conductor
+`[kən'dʌktə]`
+- `n` : `Nguoi soat ve`
+> The conductor will be coming through in just a few minutes to inspect tickets
+
+# contents
+`[kən'tents]`
+- `n` : Thu dung ben trong, noi dung
+- `stir the contents of a container`
+- `the content of a job advertisement`
+- `food with a high fet content`
+> The contents of your overhead baggage may have shifted during the flight
+
+# delay
+`[di'lei]`
+- `v` : `Tri hoan`
+- `n` : `Su tri hoan` 
+> We apologize for this delay
+
+# destination
+`[desti'neision]`
+- `n` : diem den
+> The flight to Asia have all been delayed due to bad weather in the destination cities
+
+- `Reach the destination`
+- `a holiday destination`
+- `the shortest route to your destination`
+
+# distinctive
+`[di'stintiv]`
+- `Adj` : tieu bieu
+> You'll see the city's distinctive architecture
+- `One of its distinctive feature`
+
+# entire
+- `adj` : toan bo
+- `adv` : entirely
+> the entire trip will take most of the afternoon
+
+# frequent
+- `phr`: thuong xuyen
+> We'll soon be adding move frequent service to five popular destinations.
+- `a frequent customer`
+- `a frequent flyer`
+- `frequent the store`
+- `require frequent maintenance`
+
+# incur
+- `v` : chiu, gap phai
+> i'm writing with regard to damage to my suitcase incurred during a recent trip to Italy
+- `No charge will be incurred`
+
+# itinerary
+[ai'tinərəri]
+- `n` : lich trinh
+> your complete itinerary will be mailed to you tomorow
+
+# last-minute
+- `adj` : vao phut chot
+- `a last-minute change`
+- `a last-minute cancellation`
+> My friend change his mind in a last-minute
+
+# markedly
+['ma:kidli]
+- `adv` : khac biet ro ret
+> travel agencies may charge markedly different prices for offering similar vacation packages.
+
+# picturesque
+- `adj` : dep (co kinh)
+> Notre dame is the most picturesque cathilic church in the world
+
+# Registration
+- `n`
+- `v` : register
+
+# round-trip
+- `n` : (ve) khu hoi
+- `round-trip ticket`
+- `one-way ticket`
+>The cost of round-trip air transportation is included in the nine-day cruise package
+
+# significantly 
+- `adv` : dang ke
+- `significant  share`
+
+# typical
+- `adj` : tieu bieu
+- `type`
+- `typically`
+- `typicality`
+- `It is typical of`
+
+# waive
+- `v` : tu bo (quyen, hoc phi)
+> Wyncote Airelines will waive the fifteen-pound baggage fee for members of its Flyer club
+
+# fatigue
+- `n` : tinh trang met moi
+- `fatigued`
+- `fatiguing`
+- `fatigable`
+- `fatigueless`
+- `help overcome fatigue`
+- `recover from fatigue`
+
+# hospitality
+- `n` : long hieu khach
+- `hospitality industry`
+- `gice [extend] hospitality`
+
+# vessel    
+- `n` : tau
+- `all vessels leaving the port`
+> We are looking for good servers and maintenance staff to work aboard our many vessels
