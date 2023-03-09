@@ -118,3 +118,91 @@
 
 # broad
 - [brôd] [brɔːd]
+> Lang Nghe restaurance offer a broad range of item
+
+# courteous
+[ˈkərdēəs]
+> She was courteous and obliging to all
+
+polite, respectful, or considerate in manner.
+# cuisine **
+[kwəˈzēn]
+- `local cuisine` 
+- `Italian cuisine`
+> We soent the evening sampling the local cuisine
+- `A new restaurant serving French cuisine`
+
+# dine
+- `n` : dung bua
+- `dinner`
+- `dining`
+- `diner`
+
+Note that `dinner` and `diner` is different totally
+- `take (someone) to dinner`
+
+# flavor
+[ˈflāvər]
+- `give flavor to`
+- `What flavor would you like?`
+- `flavored`
+> The bank knocked out some fine rock 'n' roll-flavored singles
+
+> The peanut ooil is light but fairly full-flavored
+
+# ingredient
+- `n` : Thanh phan
+> The company had to change an ingredient in its apple tart
+
+# linen
+[ˈlinən]
+- `"a linen suit"`
+
+# occupancy
+[ˈäkyəp(ə)nsē]
+- `n` : quyen chiem huu/ su cu ngu
+- `occupancy rate` : ty le phong day
+
+# refreshing
+[rəˈfreSHiNG]
+- `light refreshments`
+
+# whoever
+- `pr.n` - any person who 
+Same meaning with `anyone`
+
+# assorted
+- `adj` : phoi hop
+> bowl in assorted colors
+
+# commemorate
+[kəˈmeməˌrāt]
+- `v` : lam le ky niem
+- `commemoration`
+- `commemorative`
+- `commemoratively`
+- `to commemorate our opening 30 years ago`
+
+# concierge
+[känˈsyer(d)ZH]
+- a caretaker of an apartment complex or small hotel
+- a hotel employee whose job is to assist guests by arranging tours
+
+> if you want to explore Da Nang, our concierge will guide some tourist activities
+- `concierge service`
+
+# culinary
+[kələˌnerē]
+- `adj` : về nhà bếp, về nấu ăn
+- `culinary talents`
+
+# perishable
+[perəSHəb(ə)l]
+- `adj` : dễ hỏng
+> Nhat Phong Van company will no longer transport perishable goods
+
+# premises
+[ˈpreməsəz]
+- `n` : cơ sở
+- `on the promises`
+> Some services available on the premises are charged separately from the room fee
