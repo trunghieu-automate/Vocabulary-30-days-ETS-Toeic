@@ -93,22 +93,51 @@ use in standard, relationshio, vehicle, machine,.. context
 same meaning with `as long as`
 
 # rebate
-> The public Transit commisstion offers tax rebates for peaple who frequently use city buses
+> The public Transit Commisstion offers tax rebates for peaple who frequently use city buses
 
 # regardless of
+[rɪˈɡɑːdləs]
+> `regardless of whether you travel on business or for pleasure`
+
+> David continued to drive aggressively regardless of slippery condition
 
 # revert
+- `The ownership of the property will revert to township`
+
+- In an effort to save money, the woman reverted to using public transport
 
 # route
+[ruːt]
+> The scenic route from Da Nang to Ba Na hill
 
 # compile
+- `compile the data`
+- `compile a list of`
+
 
 # compliance
+[kəmˈplʌɪəns]
+> All driver must be in compliance with all current motor vehicle laws
+
+- `in compliance with`
+- `dress code compliance`
+- `comply with`
 
 # considerably
+[kənˈsɪd(ə)rəbli]
+> The subway is considerably faster than taking a private vehicle during rush hour.
 
 # drowsiness
+[ˈdraʊzɪnəs]
+sleepiness
+> You might find that you experience some drowsiness, so take care of your driving.
 
 # fleet
+> Star Airways is planning to replace its entire aircraft list with sky steam tests.
 
 # suspend
+[səˈspɛnd]
+= postpone
+- `suspend one's decision`
+- `The services are suspended`
+> In the event of severe weather.Affected bus route may be temporarily suspended.
